@@ -1,0 +1,17 @@
+release/main.o
+release/mainwindow.o
+release/csvio.o
+release/loadmoreitemwidget.o
+release/logfilesystem.o
+release/loggerwidget.o
+release/logicalfilesystem.o
+release/logitemdelegate.o
+release/logpagemodel.o
+release/historycalendardialog.o
+release/moc_mainwindow.o
+release/moc_loadmoreitemwidget.o
+release/moc_logfilesystem.o
+release/moc_loggerwidget.o
+release/moc_logicalfilesystem.o
+release/moc_logpagemodel.o
+release/moc_historycalendardialog.o

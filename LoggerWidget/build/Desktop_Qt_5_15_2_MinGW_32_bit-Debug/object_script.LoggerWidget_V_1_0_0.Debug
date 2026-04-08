@@ -1,0 +1,17 @@
+debug/main.o
+debug/mainwindow.o
+debug/csvio.o
+debug/loadmoreitemwidget.o
+debug/logfilesystem.o
+debug/loggerwidget.o
+debug/logicalfilesystem.o
+debug/logitemdelegate.o
+debug/logpagemodel.o
+debug/historycalendardialog.o
+debug/moc_mainwindow.o
+debug/moc_loadmoreitemwidget.o
+debug/moc_logfilesystem.o
+debug/moc_loggerwidget.o
+debug/moc_logicalfilesystem.o
+debug/moc_logpagemodel.o
+debug/moc_historycalendardialog.o
